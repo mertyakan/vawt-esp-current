@@ -4,8 +4,8 @@
 
 
 // Wi-Fi Ayarları
-const char* ssid = "FiberHGW_TPD418_2.4GHz";  // Wi-Fi ağ adınızı yazın
-const char* password = "t4E9MpLaThM7"; // Wi-Fi şifrenizi yazın
+const char* ssid = "WIFI";  // Wi-Fi ağ adınızı yazın
+const char* password = "WIFI"; // Wi-Fi şifrenizi yazın
 
 const int currentSensorPin = A0;
 float calibrationValue = 66.0; 
