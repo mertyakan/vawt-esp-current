@@ -5,3 +5,5 @@ We want;
 2. What is the status of our battery health?
 3. What is the amount of amps consumed?
 4. An esp repo where we can analyze these from a single screen. 
+
+![First test](https://mertyakan.com/wp-content/uploads/2025/01/first-test.png)
