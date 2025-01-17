@@ -6,4 +6,5 @@ We want;
 3. What is the amount of amps consumed?
 4. An esp repo where we can analyze these from a single screen. 
 
-![First test](https://mertyakan.com/wp-content/uploads/2025/01/first-test.png)
+![INA3221 test](https://mertyakan.com/wp-content/uploads/2025/01/first-test.png)
+![ACS712 test](https://mertyakan.com/wp-content/uploads/2025/01/Screenshot-2025-01-17-at-14.49.44.png)
